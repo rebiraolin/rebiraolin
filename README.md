@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Rebira Oli</h1>
 
 <p align="center">
-  <strong>Software Engineering Student | Backend Developer | AI/ML Enthusiast</strong>
+  <strong>Software Engineer |  Full-stack Developer | AI/ML Enthusiast</strong>
 </p>
 
 ---
