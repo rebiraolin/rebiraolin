@@ -29,10 +29,7 @@
   <img src="https://streak-stats.demolab.com?user=rebiraolin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <!-- Contribution/activity graph (animated "snake" style) -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rebiraolin&theme=tokyonight" alt="Contributions graph" />
-</p>
+
 
 ---
 
