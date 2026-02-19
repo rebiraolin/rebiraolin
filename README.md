@@ -64,8 +64,7 @@ REST APIs, CRUD, MVC, Database Design, Microservices, Clean Architecture
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rebiraolin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rebiraolin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- GitHub and Languages stats removed due to rendering issues -->
 </p>
 
 <p align="center">
