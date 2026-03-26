@@ -61,17 +61,6 @@ REST APIs, CRUD, MVC, Database Design, Microservices, Clean Architecture
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <!-- GitHub and Languages stats removed due to rendering issues -->
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rebiraolin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
